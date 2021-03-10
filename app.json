@@ -1,0 +1,12 @@
+{
+  "name": "SoundsLikeARun",
+  "displayName": "SoundsLikeARun",
+  "expo": {
+    "name": "SoundsLikeARun",
+    "slug": "SoundsLikeARun",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
